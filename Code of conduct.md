@@ -18,7 +18,7 @@ We maintain a harassment-free environment. We tolerate no harassment related to 
 ## Reporting and enforcement
 - Report any concerns or violations to Dr. Kępińska immediately.
 - All reports will be treated confidentially.
-- Violators will be approached by Dr. Kępińska immediately, with potential removal from lab projects for repeated offenses.
+- Violators will be approached by Dr. Kępińska immediately, with removal from lab projects for repeated offenses.
 
 ## Professional conduct
 - Maintain professional communication suitable for diverse audiences (sexual content is never appropriate).
