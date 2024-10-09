@@ -2,7 +2,7 @@
 
 The Kępińska Lab aims to develop algorithms and apply them to genetic and phenotypic big data to understand relationships between biological pathways and psychiatric disorder comorbidities throughout life, with a focus on psychosis. We aim for this work to advance patient, clinician, and researcher knowledge on disorder fluidity and prognosis, to help combat stigma and misperceptions of psychiatric disorders as genetically predetermined and unchangeable, and to lead to timely interventions.
 
-## Our Goals
+## Our goals
 
 We will achieve this by:
 
@@ -11,7 +11,7 @@ We will achieve this by:
 
 Our research group will adopt an open science model, making study protocols, data, publications, and teaching materials openly available whenever possible (see [Kępińska et al., 2024](https://doi.org/10.1016/j.bpsgos.2023.08.007)).
 
-## Core Values of the Kępińska Lab
+## Core values of the Kępińska Lab
 
 - Openness
 - Interdisciplinarity
