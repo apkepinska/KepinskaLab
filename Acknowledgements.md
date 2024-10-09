@@ -1,8 +1,8 @@
 # Acknowledgements
 
-In creating the Kępińska lab code of conduct and culture guide, I have drawn inspiration and guidance from several excellent resources. 
+In creating the Kępińska lab code of conduct and culture guide, I have drawn inspiration from several excellent resources. 
 
-I would like to acknowledge the following principal investigators and groups for their openly shared contributions:
+I would like to acknowledge the following principal investigators and groups for their openly shared lab handbooks and codes of conduct:
 
 - **Wei Ji Ma**  
   [http://www.cns.nyu.edu/malab/lablife.html](http://www.cns.nyu.edu/malab/lablife.html)
